@@ -24,8 +24,8 @@
 
 .main-content {
   display: flex;
-  justify-content: space-around;
-  gap: 10px;
+  justify-content: center;
+  gap: 50px;
   margin-top: 20px;
 }
 
