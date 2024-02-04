@@ -102,10 +102,6 @@ function App() {
           <button className='main-content-below-submit' onClick={runCode}>Run</button>
         </div>
       </div>
-      <div style={{ textAlign: 'center' }} className='footer'>
-{/*         <p className='footer-text'>Made with ❤️ by <a href='https://github.com/rajeshds20' target='_blank'>Rajesh</a> */}
-        </p>
-      </div>
     </div>
   )
 }
